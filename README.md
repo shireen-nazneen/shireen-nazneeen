@@ -13,10 +13,10 @@ Hey Coderz!   This is  Shireen
 
 
 ## ☎️ REACH ME OUT
-<!-- 
-[![Linkedin Badge](https://img.shields.io/badge/-parmeshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parmeshwar4321/)](https://www.linkedin.com/in/parmeshwar4321/)
-[![Instagram Badge](https://img.shields.io/badge/-parmeshwar-white?style=flat-square&logo=Instagram&logoColor=Pink&link=https://www.instagram.com/_p_a_r_m_y_a_.007/)](https://www.instagram.com/_p_a_r_m_y_a_.007/)
-[![Twitter Badge](https://img.shields.io/badge/-parmeshwar-white?style=flat-square&logo=Twitter&logoColor=Blue&link=https://www.twitter.com/parmeshwar4321)](https://www.twitter.com/parmeshwar4321) -->
+
+[![Linkedin Badge](https://img.shields.io/badge/shireen-nazneen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shireen-nazneen/)](https://www.linkedin.com/in/shireen-nazneen/)
+[![Instagram Badge](https://img.shields.io/badge/-S_naaz220-white?style=flat-square&logo=Instagram&logoColor=Pink&link=https://www.instagram.com/S_naaz220/)](https://www.instagram.com/S_naaz220/)
+[![Twitter Badge](https://img.shields.io/badge/-S_naaz220-white?style=flat-square&logo=Twitter&logoColor=Blue&link=https://www.twitter.com/S_naaz220)](https://www.twitter.com/S_naaz220) 
 [![Gmail Badge](https://img.shields.io/badge/-shireen82naaz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shireen82naaz@gmail.com)](mailto:shireen82naaz@gmail.com)
 
 <br />
@@ -34,7 +34,7 @@ Hey Coderz!   This is  Shireen
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-js-000000?style=flat&logo=React)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 
 
 ### Deployment services
