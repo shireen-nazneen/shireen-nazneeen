@@ -34,7 +34,7 @@ Hey Coderz!   This is  Shireen
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![React-js](https://img.shields.io/badge/-React-js-000000?style=flat&logo=React-js)
+![React](https://img.shields.io/badge/-React-js-000000?style=flat&logo=React)
 
 
 ### Deployment services
